@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-🔗 [Check out the live demo](https://yourusername.github.io/dragon-cursor)
+🔗 [Check out the live demo](https://sfmn2p.csb.app/)
 
 ---
 
